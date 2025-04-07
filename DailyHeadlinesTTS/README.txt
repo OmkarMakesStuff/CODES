@@ -1,0 +1,1 @@
+This is a daily headline reader that uses NewsAPI and pyttsx3
